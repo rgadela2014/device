@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><devicefacades><testclass>com.device.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.device.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></devicefacades></testclasses>
